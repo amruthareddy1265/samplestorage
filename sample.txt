@@ -1,5 +1,1 @@
-sample file just created to understand
-git
-via 
-command 
-terminal
+deleted previous line to understand command: git difftool head
