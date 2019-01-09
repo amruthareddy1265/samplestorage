@@ -1,1 +1,1 @@
-deleted previous line to understand command: git difftool head
+very latest one
