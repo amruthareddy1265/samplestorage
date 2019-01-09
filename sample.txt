@@ -1,0 +1,5 @@
+sample file just created to understand
+git
+via 
+command 
+terminal
